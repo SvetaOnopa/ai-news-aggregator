@@ -22,7 +22,7 @@ This guide walks you through deploying the AI News Aggregator to Render.com with
 1. In Render dashboard, click "New" → "Blueprint"
 2. Connect your GitHub account if not already connected
 3. Select the repository: `ai-news-aggregator`
-4. Select the branch: `deployment` (or `master` if you merge)
+4. Select the branch: `master`
 5. Render will detect `render.yaml` automatically
 
 ### 3. Review Blueprint Configuration

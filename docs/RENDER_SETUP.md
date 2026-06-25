@@ -11,7 +11,7 @@
 1. In Render dashboard: **New** → **Blueprint**
 2. Connect GitHub (if not connected)
 3. Select repository: `ai-news-aggregator`
-4. Select branch: `deployment`
+4. Select branch: `master`
 5. Click **Apply** (Render reads `render.yaml` automatically)
 
 ### Step 3: Set Environment Variables
